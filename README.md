@@ -8,8 +8,6 @@ Languages and Tools:
  
 My Projects:
  
- [![DogApp](https://user-images.githubusercontent.com/104910559/197883323-603e61d8-03f1-4069-a020-b2c5e7d16323.png)](https://github.com/Razgrizsx/PI-Dogs-main)
-
-[<img alt="DogApp" width="100px" src="https://user-images.githubusercontent.com/104910559/197883323-603e61d8-03f1-4069-a020-b2c5e7d16323.png" />](https://github.com/Razgrizsx/PI-Dogs-main)
+[<img alt="DogApp" width="300px" src="https://user-images.githubusercontent.com/104910559/197883323-603e61d8-03f1-4069-a020-b2c5e7d16323.png" />](https://github.com/Razgrizsx/PI-Dogs-main)
 
 
