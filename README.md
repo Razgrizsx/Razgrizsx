@@ -1,10 +1,13 @@
 ![HelloDevelopers](https://hello-developers.com/wp-content/uploads/2018/10/facebook-og.jpg)
 
-
-
-📫 Reach me at mmadrizjose@gmail.com
-
+Hello, im Christian Rizzo
 Full Stack Developer from Argentina :argentina:
+
+📫 Reach me at razgrisss41@gmail.com
+
+Connect with me:
+[<img alt="DogApp" width="70px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/christian-javier-rizzo-1253b0177/)
+https://www.linkedin.com/in/christian-javier-rizzo-1253b0177/
 
 Languages and Tools:
 
