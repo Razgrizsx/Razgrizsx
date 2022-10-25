@@ -10,5 +10,6 @@ My Projects:
  
  [![DogApp](https://github.com/Razgrizsx/PI-Dogs-main/issues/1#issue-1423110021)](https://github.com/Razgrizsx/PI-Dogs-main)
 
+[<img alt="DogApp" width="100px" src="https://github.com/Razgrizsx/PI-Dogs-main/issues/1#issue-1423110021" />](https://github.com/Razgrizsx/PI-Dogs-main)
 
 
