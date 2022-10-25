@@ -1,4 +1,5 @@
-![HelloDevelopers](https://hello-developers.com/wp-content/uploads/2018/10/facebook-og.jpg)
+
+[<img alt="Banner" width="500px" src="https://hello-developers.com/wp-content/uploads/2018/10/facebook-og.jpg" />]
 
 Hello, im Christian Rizzo
 Full Stack Developer from Argentina :argentina:
@@ -6,6 +7,7 @@ Full Stack Developer from Argentina :argentina:
 📫 Reach me at razgrisss41@gmail.com
 
 Connect with me:
+
 [<img alt="DogApp" width="70px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/christian-javier-rizzo-1253b0177/)
 
 Languages and Tools:
