@@ -1,5 +1,5 @@
 
-[<img alt="Banner" width="500px" src="https://hello-developers.com/wp-content/uploads/2018/10/facebook-og.jpg" />]
+<img alt="Banner" width="500px" src="https://hello-developers.com/wp-content/uploads/2018/10/facebook-og.jpg" />
 
 Hello, im Christian Rizzo
 Full Stack Developer from Argentina :argentina:
