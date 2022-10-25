@@ -7,7 +7,6 @@ Full Stack Developer from Argentina :argentina:
 
 Connect with me:
 [<img alt="DogApp" width="70px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/christian-javier-rizzo-1253b0177/)
-https://www.linkedin.com/in/christian-javier-rizzo-1253b0177/
 
 Languages and Tools:
 
